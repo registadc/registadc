@@ -45,7 +45,7 @@ In addition, I am learning **Machine Learning using Python**, with a focus on:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=registadc&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=registadc&show_icons=true&theme=tokyonight)
 
 ---
 
