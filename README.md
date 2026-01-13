@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Regista Cahyani
+# 👋 Hi, I'm Regista Dwi Cahyani
 
 🎓 **SMK Graduate – Software Engineering (Rekayasa Perangkat Lunak)**  
 🏅 **Certified Junior Coder (USK)**  
