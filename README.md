@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Regista Dwi Cahyani
 
 🎓 **SMK Graduate – Software Engineering (Rekayasa Perangkat Lunak)**  
-🏅 **Certified Junior Coder (USK)**  
+🏅 **Certified Junior Coder (BNSP)**  
 💻 **Junior Web Developer | Machine Learning Learner (Python)**  
 📍 Indonesia
 
@@ -20,7 +20,7 @@ In addition, I am learning **Machine Learning using Python**, with a focus on:
 
 ## 🏅 Certification
 - ✅ **Junior Coder Certification**  
-  *Uji Sertifikasi Kompetensi (USK)*
+  *Badan Nasional Sertifikasi Profesi*
 
 ---
 
