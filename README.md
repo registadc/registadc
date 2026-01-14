@@ -20,7 +20,7 @@ In addition, I am learning **Machine Learning using Python**, with a focus on:
 
 ## 🏅 Certification
 - ✅ **Junior Coder Certification**  
-  *Badan Nasional Sertifikasi Profesi*
+  *Badan Nasional Sertifikasi Profesi (2026)*
 
 ---
 
