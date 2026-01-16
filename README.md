@@ -2,8 +2,8 @@
 
 🎓 **SMK Graduate – Software Engineering (Rekayasa Perangkat Lunak)**  
 🏅 **Certified Junior Coder (BNSP)**  
-💻 **Junior Web Developer | Machine Learning Learner (Python)**  
-📍 Indonesia
+💻 **Junior Web Developer**  
+📍 Jawa Tengah, Indonesia
 
 ---
 
