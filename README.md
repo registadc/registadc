@@ -3,7 +3,7 @@
 🎓 **SMK Graduate – Software Engineering (Rekayasa Perangkat Lunak)**  
 🏅 **Certified Junior Coder (BNSP)**  
 💻 **Junior Web Developer**  
-📍 Jawa Tengah, Indonesia
+📍 Jawa Tengah, Indonesia  
 
 ---
 
@@ -12,15 +12,22 @@ I am a **vocational high school graduate majoring in Software Engineering (RPL)*
 
 I have experience developing **web-based applications** using PHP and MySQL, and I am familiar with building CRUD systems and simple dynamic websites.
 
+During my **Praktek Kerja Lapangan (Internship)**, I also learned and applied **Laravel framework** to develop web applications, including:
+- MVC (Model-View-Controller) concept  
+- Routing and Controller  
+- Blade templating  
+- Authentication and role-based access (admin & user)  
+- CRUD operations using Laravel  
+
 In addition, I am learning **Machine Learning using Python**, with a focus on:
-- Fruit classification
-- Basic regression techniques
+- Fruit classification  
+- Basic regression techniques  
 
 ---
 
 ## 🏅 Certification
 - ✅ **Junior Coder Certification**  
-  *Badan Nasional Sertifikasi Profesi (2026)*
+  *Badan Nasional Sertifikasi Profesi (2026)*  
 
 ---
 
@@ -30,6 +37,7 @@ In addition, I am learning **Machine Learning using Python**, with a focus on:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Database & Server
@@ -44,19 +52,14 @@ In addition, I am learning **Machine Learning using Python**, with a focus on:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=registadc&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 > *(Feel free to connect with me)*
 
 - 💼 LinkedIn: -
-- 📷 Instagram: [https://www.instagram.com/rgstdc_]
-- 📷 Tiktok: [http://tiktok.com/@aeriegies_]
-- 📧 Email: cahyanidwiregista08@gmail.com
+- 📷 Instagram: [https://www.instagram.com/rgstdc_]  
+- 📷 Tiktok: [http://tiktok.com/@aeriegies_]  
+- 📧 Email: cahyanidwiregista08@gmail.com  
 
 ---
 
-✨ *This GitHub profile serves as my professional portfolio as a Certified Junior Coder and aspiring Machine Learning practitioner.*
+✨ *This GitHub profile serves as my professional portfolio as a Certified Junior Coder, Laravel learner, and aspiring Machine Learning practitioner.*  
